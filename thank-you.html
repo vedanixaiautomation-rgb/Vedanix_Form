@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thank You - Vedanix AI & Automation</title>
+  <style>
+    :root {
+      --ink: #07111f;
+      --muted: #637087;
+      --blue: #0878ff;
+      --blue-dark: #044fb3;
+      --gold: #c99021;
+      --surface: #ffffff;
+      --shadow: 0 24px 70px rgba(7, 17, 31, 0.16);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 12% 12%, rgba(201, 144, 33, 0.18), transparent 28%),
+        radial-gradient(circle at 88% 14%, rgba(8, 120, 255, 0.18), transparent 30%),
+        linear-gradient(135deg, #f6faff 0%, #ffffff 48%, #f4f8ff 100%);
+    }
+
+    main {
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+    }
+
+    .card {
+      width: min(620px, 100%);
+      padding: 42px;
+      text-align: center;
+      background: var(--surface);
+      border: 1px solid #d9e5f4;
+      border-radius: 22px;
+      box-shadow: var(--shadow);
+    }
+
+    img {
+      width: 150px;
+      height: 150px;
+      object-fit: contain;
+      margin-bottom: 24px;
+      border-radius: 18px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(2rem, 5vw, 3rem);
+      line-height: 1.05;
+      letter-spacing: 0;
+    }
+
+    p {
+      margin: 16px auto 0;
+      max-width: 430px;
+      color: var(--muted);
+      line-height: 1.65;
+      font-size: 1rem;
+    }
+
+    a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 52px;
+      margin-top: 28px;
+      padding: 0 22px;
+      color: #fff;
+      background: linear-gradient(135deg, var(--blue), var(--blue-dark));
+      border-radius: 13px;
+      box-shadow: 0 14px 28px rgba(8, 120, 255, 0.28);
+      text-decoration: none;
+      font-weight: 850;
+    }
+
+    .line {
+      width: 72px;
+      height: 4px;
+      margin: 22px auto 0;
+      border-radius: 999px;
+      background: linear-gradient(90deg, var(--gold), var(--blue));
+    }
+
+    @media (max-width: 560px) {
+      .card {
+        padding: 28px 22px;
+      }
+
+      img {
+        width: 120px;
+        height: 120px;
+      }
+
+      a {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="card" aria-labelledby="thank-you-title">
+      <img src="assets/logo-vedanix.jpeg" alt="Vedanix AI & Automation logo">
+      <h1 id="thank-you-title">Thank you for submitting</h1>
+      <div class="line" aria-hidden="true"></div>
+      <p>Your inquiry has been received. The Vedanix AI & Automation team will review your requirements and contact you soon.</p>
+      <a href="/">Submit another inquiry</a>
+    </section>
+  </main>
+</body>
+</html>
