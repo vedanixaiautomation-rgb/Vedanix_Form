@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 222 47% 5%;
+  --foreground: 185 60% 96%;
+  --border: 190 80% 80% / 0.18;
+  --primary: 187 96% 54%;
+  --muted: 210 22% 70%;
+  color-scheme: dark;
+}
+
+.light {
+  --background: 210 40% 98%;
+  --foreground: 222 47% 8%;
+  --border: 220 15% 40% / 0.18;
+  --primary: 190 95% 38%;
+  --muted: 220 12% 36%;
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+  letter-spacing: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  overflow-x: hidden;
+  background: hsl(var(--background));
+  color: hsl(var(--foreground));
+  cursor: none;
+}
+
+button,
+a,
+input,
+textarea,
+select {
+  cursor: none;
+}
+
+.light body {
+  background: #f8fbff;
+}
+
+.aurora {
+  background:
+    radial-gradient(circle at 18% 18%, rgba(34, 211, 238, 0.22), transparent 30%),
+    radial-gradient(circle at 82% 12%, rgba(255, 255, 255, 0.16), transparent 28%),
+    radial-gradient(circle at 70% 78%, rgba(20, 184, 166, 0.18), transparent 30%),
+    linear-gradient(135deg, #020617 0%, #07111f 54%, #020617 100%);
+}
+
+.light .aurora {
+  background:
+    radial-gradient(circle at 18% 18%, rgba(14, 165, 233, 0.16), transparent 30%),
+    radial-gradient(circle at 82% 12%, rgba(15, 23, 42, 0.08), transparent 28%),
+    linear-gradient(135deg, #f8fbff 0%, #eef7ff 100%);
+}
+
+.glass {
+  border: 1px solid rgba(125, 249, 255, 0.18);
+  background: linear-gradient(135deg, rgba(8, 19, 36, 0.74), rgba(5, 12, 24, 0.52));
+  box-shadow: 0 24px 80px rgba(0, 0, 0, 0.28);
+  backdrop-filter: blur(20px);
+}
+
+.light .glass {
+  border-color: rgba(8, 145, 178, 0.18);
+  background: rgba(255, 255, 255, 0.78);
+}
+
+.grid-bg {
+  background-image:
+    linear-gradient(rgba(34, 211, 238, 0.1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(34, 211, 238, 0.1) 1px, transparent 1px);
+  background-size: 42px 42px;
+  mask-image: radial-gradient(circle, black, transparent 72%);
+}
+
+.neon-text {
+  text-shadow: 0 0 28px rgba(34, 211, 238, 0.58);
+}
+
+.rich-editor {
+  min-height: 180px;
+}
