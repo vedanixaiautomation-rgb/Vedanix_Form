@@ -1,0 +1,81 @@
+127.0.0.1 - - [21/May/2026 00:54:47] "GET /admin?password=vedanix2026 HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 00:56:53] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 00:56:54] "GET /admin?password=vedanix2026 HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 00:58:00] "GET /admin?password=vedanix2026 HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 00:58:00] code 404, message File not found
+127.0.0.1 - - [21/May/2026 00:58:00] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [21/May/2026 00:59:13] "GET /download-submissions.csv?password=vedanix2026 HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:00:11] "GET /admin?password=vedanix2026 HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:00:58] code 404, message File not found
+127.0.0.1 - - [21/May/2026 01:00:58] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [21/May/2026 01:01:02] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:01:03] "GET /assets/logo-vedanix.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:01:17] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:01:37] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:01:38] "GET /assets/logo-vedanix.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:01:41] code 404, message File not found
+127.0.0.1 - - [21/May/2026 01:01:41] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [21/May/2026 01:03:10] "POST /submit HTTP/1.1" 303 -
+127.0.0.1 - - [21/May/2026 01:03:11] "GET /thank-you.html HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:03:23] "GET /admin?password=vedanix2026 HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:04:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:04:11] "GET /assets/logo-vedanix.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:04:13] code 404, message File not found
+127.0.0.1 - - [21/May/2026 01:04:13] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [21/May/2026 01:04:24] "GET /admin?password=vedanix2026 HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:04:28] "GET /admin?password=vedanix2026 HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:05:23] "GET /admin?password=vedanix2026 HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:05:34] "GET /download-submissions.csv?password=vedanix2026 HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:07:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:07:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:07:12] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:07:13] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:07:47] "GET /?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAEe9INwqwYhcNR7qQdy49zoDg3KFJXWVOuY-6P9I-bAU7281sE6RJjmI--HvQg_aem_Wdm9Uh2lU7p0ySHJUdjcpg HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:08:22] "GET /?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGn7YiTX7_SNrzPfBahWHLOlDnKDjYomkyLmAv6f7zwJbjrsyNeJNRFD9qQySc_aem_YWdncwC3ukVclO-Hfzxmrd47j41n&brid=YWdncwGfiL07uCi-E0OxCmOwvDQp HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:08:23] "GET /assets/logo-vedanix.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 01:08:25] code 404, message File not found
+127.0.0.1 - - [21/May/2026 01:08:25] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [21/May/2026 01:08:29] "GET /assets/logo-vedanix.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:02:14] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:03:09] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:03:10] "GET /admin?password=vedanix2026 HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:03:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:03:27] "GET /assets/logo-vedanix.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:03:29] code 404, message File not found
+127.0.0.1 - - [21/May/2026 02:03:29] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [21/May/2026 02:03:52] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:04:03] "GET /admin?password=vedanix2026 HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:04:09] "GET /admin?password=vedanix2026 HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:04:10] code 404, message File not found
+127.0.0.1 - - [21/May/2026 02:04:10] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [21/May/2026 02:04:22] "GET /admin?password=vedanix2026 HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:04:24] code 404, message File not found
+127.0.0.1 - - [21/May/2026 02:04:24] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [21/May/2026 02:04:28] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:04:29] "GET /assets/logo-vedanix.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:05:50] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:05:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:05:52] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:05:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:05:57] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:05:59] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:06:43] "GET /admin?password=vedanix2026 HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:06:44] code 404, message File not found
+127.0.0.1 - - [21/May/2026 02:06:44] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [21/May/2026 02:06:46] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:06:48] "GET /assets/logo-vedanix.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:07:26] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:07:26] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:07:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:07:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:07:34] "GET /?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNTY3MDY3MzQzMzUyNDI3AAGnaVerb5cwdkkOXL1A2f0rGLjwl1YdMOIM88N2rOS93FWfgPB6YFOYJdU1tWA_aem_YWdncwAuTZ-aW5IjYLD3kIWgFwyv&brid=YWdncwEQwYqFHYqlCG3RTTqyuDaT HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:07:35] "GET /assets/logo-vedanix.jpeg HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:07:36] code 404, message File not found
+127.0.0.1 - - [21/May/2026 02:07:36] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [21/May/2026 02:08:02] "GET /?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAEeIx0ElPhNdkmhM42vx7rfatARDTRjGej7h0r3H-7xvkM5kG_dwEQpw--bv2c_aem_k6xkb1_MceDqGqD04khjUA HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:11:12] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:11:13] code 404, message File not found
+127.0.0.1 - - [21/May/2026 02:11:13] "GET /robots.txt HTTP/1.1" 404 -
+127.0.0.1 - - [21/May/2026 02:11:38] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [21/May/2026 02:11:39] code 404, message File not found
+127.0.0.1 - - [21/May/2026 02:11:39] "GET /robots.txt HTTP/1.1" 404 -

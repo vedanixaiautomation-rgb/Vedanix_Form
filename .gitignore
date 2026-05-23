@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.log
+*.err
+.csv_imported
+vedanix_submissions.db
